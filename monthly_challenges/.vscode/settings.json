@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onWindowChange",
+    "window.zoomLevel": 6,
+    "python.languageServer": "Pylance"
+}
